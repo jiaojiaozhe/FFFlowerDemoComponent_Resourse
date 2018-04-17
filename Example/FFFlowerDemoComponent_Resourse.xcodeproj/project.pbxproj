@@ -37,11 +37,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		135F234568AD568C19BAE1FF /* FFFlowerDemoComponent_Resourse.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = FFFlowerDemoComponent_Resourse.podspec; path = ../FFFlowerDemoComponent_Resourse.podspec; sourceTree = "<group>"; };
-		28F16216A8E248D445B73AE0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		135F234568AD568C19BAE1FF /* FFFlowerDemoComponent_Resourse.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FFFlowerDemoComponent_Resourse.podspec; path = ../FFFlowerDemoComponent_Resourse.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		28F16216A8E248D445B73AE0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		319E4BF7C6A6FB488C0C3B03 /* Pods-FFFlowerDemoComponent_Resourse_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FFFlowerDemoComponent_Resourse_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FFFlowerDemoComponent_Resourse_Example/Pods-FFFlowerDemoComponent_Resourse_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		36ED1A83EAD35C9307C94CBF /* Pods-FFFlowerDemoComponent_Resourse_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FFFlowerDemoComponent_Resourse_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FFFlowerDemoComponent_Resourse_Tests/Pods-FFFlowerDemoComponent_Resourse_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		568D5A23A02C5AB2BE59CCC0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		568D5A23A02C5AB2BE59CCC0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* FFFlowerDemoComponent_Resourse_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FFFlowerDemoComponent_Resourse_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };

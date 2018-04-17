@@ -1,0 +1,6 @@
+framework module Pods_FFFlowerDemoComponent_Resourse_Tests {
+  umbrella header "Pods-FFFlowerDemoComponent_Resourse_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

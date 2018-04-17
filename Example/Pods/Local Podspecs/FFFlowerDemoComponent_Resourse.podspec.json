@@ -1,0 +1,28 @@
+{
+  "name": "FFFlowerDemoComponent_Resourse",
+  "version": "1.0.0",
+  "summary": "Flower的资源组件.",
+  "description": "TODO: Flower的资源组件",
+  "homepage": "https://github.com/jiaojiaozhe/FFFlowerDemoComponent_Resourse",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiaojiaozhe": "lanbiao@fengnian.cn"
+  },
+  "source": {
+    "git": "https://github.com/jiaojiaozhe/FFFlowerDemoComponent_Resourse.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFFlowerDemoComponent_Resourse/Classes/**/*",
+  "resource_bundles": {
+    "FFFlowerDemoComponent_Resourse": [
+      "FFFlowerDemoComponent_Resourse/Assets/**/*.png",
+      "FFFlowerDemoComponent_Resourse/Assets/**/*.jpg"
+    ]
+  }
+}
